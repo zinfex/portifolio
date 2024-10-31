@@ -17,4 +17,11 @@ ul li a{
     text-decoration: none;
     color: white;
     font-weight: 600;
+    border-bottom: 2px solid transparent;
+    transition: 200ms linear;
+}
+
+ul li a:hover {
+    color: #FFB44C;
+    border-color: #FFB44C;
 }

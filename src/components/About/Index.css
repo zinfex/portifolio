@@ -1,0 +1,12 @@
+#about {
+    color: white;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+}
+
+#about img {
+    width: 350px;
+    border-radius: 40px;
+}

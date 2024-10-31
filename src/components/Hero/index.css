@@ -47,15 +47,14 @@
 
 #title {
     max-width: 250px;
-    width: 250px;
 }
 
 #title h1 {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 600;
 }
 #title span {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 #avatar {
