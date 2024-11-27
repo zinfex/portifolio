@@ -3,6 +3,7 @@ import Header from './components/Header/Header'
 import Hero from './components/Hero/Hero'
 import { useEffect, useState } from 'react'
 import Skills from './components/Skills/Skills';
+import './responsive.css'
 
 interface Position {
   y: number;
@@ -14,7 +15,7 @@ const App: React.FC = () => {
 
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
-      setPosition({ x: e.clientX -5, y: e.clientY -5 });
+      setPosition({ x: e.clientX -5, y: e.clientY -55 });
     };
 
     window.addEventListener('mousemove', handleMouseMove);

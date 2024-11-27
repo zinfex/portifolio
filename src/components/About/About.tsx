@@ -3,6 +3,9 @@ import './Index.css';
 export default function About() {
     return (
         <div id="about">
+
+            <img src="minhafoto.jpg" alt="foto" />
+            
             <div className="aboutText">
                 <h1>About Me</h1>
                 <p>
@@ -19,7 +22,7 @@ export default function About() {
                 </p>
             </div>
 
-            <img src="minhafoto.jpg" alt="foto" />
+            
             
         </div>
     )

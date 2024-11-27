@@ -1,16 +1,26 @@
 header {
     color: white;
     background-color: #181328;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 ul {
     margin: 0;
     list-style: none;
-    padding: 10px;
     display: flex;
     gap: 50px;
     justify-content: center;
     padding: 25px;
+    margin-bottom: 0;
+}
+
+header ul {
+    margin-bottom: 0;
 }
 
 ul li a{

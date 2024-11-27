@@ -1,6 +1,7 @@
 #about {
     color: white;
     padding: 50px;
+    padding-inline: 200px;
     display: flex;
     justify-content: space-between;
     gap: 60px;
@@ -8,5 +9,7 @@
 
 #about img {
     width: 350px;
+    height: 350px;
     border-radius: 40px;
 }
+

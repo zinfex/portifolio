@@ -1,4 +1,10 @@
 #skills {
     padding: 40px;
     color: white;
+    text-align: center;
+}
+
+#skills ul li {
+    text-align: center;
+    
 }
