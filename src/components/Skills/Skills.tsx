@@ -1,4 +1,4 @@
-import './index.css'
+// import './index.css'
 import { FaHtml5, FaCss3, FaJs, FaReact, FaNodeJs } from "react-icons/fa";
 import { DiMongodb } from "react-icons/di";
 import { SiTypescript } from "react-icons/si";
