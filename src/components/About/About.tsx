@@ -7,7 +7,7 @@ export default function About() {
             <img src="minhafoto.jpg" alt="foto" />
             
             <div className="aboutText">
-                <h1>About Me</h1>
+                <h1>Sobre mim</h1>
                 <p>
                     My name is Arthur Rocha. I'm a software engineer with a passion for creating innovative solutions. I have worked in various industries, including tech, healthcare, and finance.
                 </p>

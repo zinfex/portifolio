@@ -4,6 +4,7 @@ import Hero from './components/Hero/Hero'
 import Skills from './components/Skills/Skills';
 import { useEffect, useState } from 'react'
 import './responsive.css'
+import Projects from './components/Projects/Projects';
 
 interface Position {
   y: number;
@@ -35,7 +36,7 @@ const App: React.FC = () => {
       <hr />
       <Skills />
       <hr />
-      
+      <Projects />
     </div>
   )
 }

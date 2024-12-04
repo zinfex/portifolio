@@ -9,7 +9,7 @@ export default function Skills() {
         <div id="skills">
             <h1>Skills principais</h1>
             <ul>
-                <li><FaHtml5 size={100} /> <br /> HTML</li>
+                <li><FaHtml5 size={100}/> <br /> HTML</li>
                 <li><FaCss3 size={100} /> <br />CSS</li>
                 <li><SiTypescript size={100}/> <br />TYPESCRIPT</li>
                 <li><FaJs size={100}/> <br />JAVASCRIPT</li>
